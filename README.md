@@ -27,4 +27,4 @@ feel free to add more questions
 ]
 ```
 
-- Pull request
+- Pull request and you're done!
