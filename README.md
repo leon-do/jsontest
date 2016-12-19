@@ -1,8 +1,8 @@
-<h1> slackJS Question Database <h1>
+<h1> slackJS Question Database </h1>
 
 feel free to add more questions
 
-<h3> Instructions <h3>
+<h3> Instructions </h3>
 
 - Clone me
 `git clone git@github.com:leon-do/slackJS-questions.git`
@@ -28,6 +28,3 @@ feel free to add more questions
 ```
 
 - Pull request
-
-
-(Notes: use \n to make a new line)
