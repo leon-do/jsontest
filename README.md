@@ -1,6 +1,6 @@
-<h1> slackJS question database <h1>
+<h1> slackJS Question Database <h1>
 
-Feel free to add more questions
+feel free to add more questions
 
 <h3> Instructions <h3>
 
@@ -11,14 +11,15 @@ Feel free to add more questions
 2. These questions are listed as an array. To add a question, add a comma, make a new line, put the question in quotes and you're done.
 
 3. Example:
-Before
 ```
+<!--Before-->
+
 [
     "question1",
     "question2"
 ]
 
-After
+<!--After-->
 [
     "question1",
     "question2",
