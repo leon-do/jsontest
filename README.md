@@ -8,7 +8,7 @@ feel free to add more questions
 `git clone git@github.com:leon-do/slackJS-questions.git`
 
 
-- These questions are listed as an array. To add a question, add a comma, make a new line, put the question in quotes and you're done.
+- These questions are listed as an array. To add a question, add a comma, make a new line, put your question on quotes.
 
 - Example:
 ```
