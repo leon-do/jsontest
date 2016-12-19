@@ -1,3 +1,9 @@
+//used to check if the array is functional
+
+var myArray =
+
+
+
 [
 "Write a program that prints the numbers from 1 to 100 \n\n But for multiples of three print 'Fizz' instead of the number and for multiples of five, print 'Buzz'.\n\nFor numbers which are multiples of both three and five, print 'FizzBuzz'"
 
@@ -58,3 +64,10 @@
 "Make a function to that tells whether a number is even or not. \n\n Example: 11 returns 'odd. 22 returns 'even'."
 
 ]
+
+
+
+
+
+
+console.log(myArray.length);
