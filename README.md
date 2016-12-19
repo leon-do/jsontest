@@ -7,6 +7,7 @@ feel free to add more questions
 - Clone me
 `git clone git@github.com:leon-do/slackJS-questions.git`
 
+- Open index.html
 
 - These questions are listed as an array. To add a question, add a comma, make a new line, put your question on quotes.
 
@@ -15,25 +16,27 @@ feel free to add more questions
 <!--Before-->
 
 [
-    'question1'
+    "question1"
 
     ,
 
-    'question2'
+    "question2"
 ]
 
 <!--After-->
 [
-    'question1'
+    "question1"
 
     ,
 
-    'question2'
+    "question2"
 
     ,
-    
-    'question3'
+
+    "question3"
 ]
 ```
 
 - Pull request and you're done!
+
+- Tips: use \n\n to make a new line.
