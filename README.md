@@ -4,13 +4,13 @@ feel free to add more questions
 
 <h3> Instructions <h3>
 
-1. Clone me
+Uno. Clone me
 `git clone git@github.com:leon-do/slackJS-questions.git`
 
 
-2. These questions are listed as an array. To add a question, add a comma, make a new line, put the question in quotes and you're done.
+2.. These questions are listed as an array. To add a question, add a comma, make a new line, put the question in quotes and you're done.
 
-3. Example:
+Tree. Example:
 ```
 <!--Before-->
 
@@ -27,4 +27,4 @@ feel free to add more questions
 ]
 ```
 
-4. Pull request
+Four. Pull request
